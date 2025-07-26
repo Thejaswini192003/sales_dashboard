@@ -9,7 +9,7 @@
 ## 🚀 Live Demo
 
 ✅ Try it out here:  
-👉 [**Live App**](https://salesdashboard-k4pbvu4ve6kfkzkskgd7xc.streamlit.app/)
+👉 [**Live Demo**](https://salesdashboard-k4pbvu4ve6kfkzkskgd7xc.streamlit.app/)
 
 ---
 
