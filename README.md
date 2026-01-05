@@ -8,12 +8,12 @@
 
 ## 🚀 Live Demo
 
-✅ Try it out here:  
-👉 [**Live Demo**](https://salesdashboard-k4pbvu4ve6kfkzkskgd7xc.streamlit.app/)
+ Try it out here:  
+ [**Live Demo**](https://salesdashboard-k4pbvu4ve6kfkzkskgd7xc.streamlit.app/)
 
 ---
 
-## 🔍 Features
+##  Features
 
 - 💰 **Key Metrics (KPIs)**:  
   View Total Sales, Total Orders, Unique Customers, and Average Order Value.  
@@ -30,14 +30,14 @@
 
 ## 📁 Tech Stack
 
-- 🐍 Python 3.x
-- 🌟 [Streamlit](https://streamlit.io/)
-- 📊 Pandas
-- 📈 Matplotlib
+-  Python 3.x
+- [Streamlit](https://streamlit.io/)
+- Pandas
+- Matplotlib
 
 ---
 
-## 👩‍💻 Run Locally
+## Run Locally
 
 Clone this repository and run the app locally:
 
